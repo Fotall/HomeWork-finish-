@@ -1,0 +1,15 @@
+/Users/budarin/Desktop/HomeWork(finish)/bin/Debug/net6.0/HomeWork(finish)
+/Users/budarin/Desktop/HomeWork(finish)/bin/Debug/net6.0/HomeWork(finish).deps.json
+/Users/budarin/Desktop/HomeWork(finish)/bin/Debug/net6.0/HomeWork(finish).runtimeconfig.json
+/Users/budarin/Desktop/HomeWork(finish)/bin/Debug/net6.0/HomeWork(finish).dll
+/Users/budarin/Desktop/HomeWork(finish)/bin/Debug/net6.0/HomeWork(finish).pdb
+/Users/budarin/Desktop/HomeWork(finish)/obj/Debug/net6.0/HomeWork(finish).csproj.AssemblyReference.cache
+/Users/budarin/Desktop/HomeWork(finish)/obj/Debug/net6.0/HomeWork(finish).GeneratedMSBuildEditorConfig.editorconfig
+/Users/budarin/Desktop/HomeWork(finish)/obj/Debug/net6.0/HomeWork(finish).AssemblyInfoInputs.cache
+/Users/budarin/Desktop/HomeWork(finish)/obj/Debug/net6.0/HomeWork(finish).AssemblyInfo.cs
+/Users/budarin/Desktop/HomeWork(finish)/obj/Debug/net6.0/HomeWork(finish).csproj.CoreCompileInputs.cache
+/Users/budarin/Desktop/HomeWork(finish)/obj/Debug/net6.0/HomeWork(finish).dll
+/Users/budarin/Desktop/HomeWork(finish)/obj/Debug/net6.0/refint/HomeWork(finish).dll
+/Users/budarin/Desktop/HomeWork(finish)/obj/Debug/net6.0/HomeWork(finish).pdb
+/Users/budarin/Desktop/HomeWork(finish)/obj/Debug/net6.0/HomeWork(finish).genruntimeconfig.cache
+/Users/budarin/Desktop/HomeWork(finish)/obj/Debug/net6.0/ref/HomeWork(finish).dll
